@@ -1,2 +1,2 @@
-# G-Calculator
+# Rent Spike Watch
 Helping people everywhere!
