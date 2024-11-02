@@ -24,7 +24,7 @@ function App() {
       <header className="App-header">
         <APIProvider apiKey={API_KEY}>
           <div style={{ marginBottom: '50px' }}>
-            <TextField id="standard-basic" label="Address" variant="standard" style={{ width: '300px' }} />
+            <TextField id="standard-basic" label="Address" variant="standard" style={{ width: '300px' }} disabled value="500 W Livingston St, Orlando, FL 32801" />
             <Button variant="outlined" style={{ marginTop: '12px', marginLeft: '20px', }} onClick={onSearchClick}>Search</Button>
           </div>
           <Map
