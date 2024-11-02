@@ -1,0 +1,302 @@
+[
+  {
+    "address": "300 Tradeport Dr, Orlando, FL 32824",
+    "built_in_date": 2022,
+    "owner": "Racetrac Inc",
+    "lat": "",
+    "long": ""
+  },
+  {
+    "address": "7125 Hoffner Ave, Orlando, FL 32822",
+    "built_in_date": null,
+    "owner": "Occ Investments LLC",
+    "lat": "",
+    "long": ""
+  },
+  {
+    "address": "6401 S Chickasaw Trl, Orlando, FL 32829",
+    "built_in_date": 2021,
+    "owner": "Publix Super Markets Inc",
+    "lat": "28.470094",
+    "long": "-81.268892"
+  },
+  {
+    "address": "Leevista Blvd, Orlando, FL 32829",
+    "built_in_date": null,
+    "owner": "Jadiba Corp",
+    "lat": "28.465951",
+    "long": "-81.27561"
+  },
+  {
+    "address": "1349 N Mills Ave, Orlando, FL 32803",
+    "built_in_date": null,
+    "owner": "AIDS Healthcare Foundation Inc",
+    "lat": "28.563135",
+    "long": "-81.364374"
+  },
+  {
+    "address": "4891 Vineland Rd, Orlando, FL 32811",
+    "built_in_date": null,
+    "owner": "CCFM Properties LLC",
+    "lat": "28.490101",
+    "long": "-81.439307"
+  },
+  {
+    "address": "14152 Narcoossee Rd, Orlando, FL 32832",
+    "built_in_date": 2021,
+    "owner": "Lake Nona Station LLC",
+    "lat": "28.3607365",
+    "long": "-81.2437808"
+  },
+  {
+    "address": "5350 S Kirkman Rd, Orlando, FL 32819",
+    "built_in_date": 2021,
+    "owner": "Waffle House Inc",
+    "lat": "28.48501",
+    "long": "-81.459104"
+  },
+  {
+    "address": "1101 S Orange Ave, Orlando, FL 32806",
+    "built_in_date": 1961,
+    "owner": "ABL Estate LLC",
+    "lat": "28.5288076",
+    "long": "-81.3761409"
+  },
+  {
+    "address": "4752 Conroy Storage Ln, Orlando, FL 32835",
+    "built_in_date": null,
+    "owner": "Orlando Storage Synergy LLC",
+    "lat": "28.49391",
+    "long": "-81.459091"
+  },
+  {
+    "address": "1530 E Colonial Dr, Orlando, FL 32803",
+    "built_in_date": 2020,
+    "owner": "JMA Tucson LLC",
+    "lat": "28.5530349",
+    "long": "-81.3609165"
+  },
+
+
+  {
+    "address": "4181 Millenia Blvd, Orlando, FL 32839",
+    "built_in_date": 2020,
+    "owner": "Cameron Group Associates LLP",
+    "lat": "28.4900702",
+    "long": "-81.4292083"
+  },
+  {
+    "address": "10039 S Orange Ave, Orlando, FL 32824",
+    "built_in_date": null,
+    "owner": "SM Estates LLC",
+    "lat": "28.420103",
+    "long": "-81.3709182"
+  },
+  {
+    "address": "520 N Fern Creek Ave, Orlando, FL 32803",
+    "built_in_date": null,
+    "owner": "520 N Fern Creek LLC",
+    "lat": "28.550297",
+    "long": "-81.360337"
+  },
+  {
+    "address": "924 Sligh Blvd, Orlando, FL 32806",
+    "built_in_date": null,
+    "owner": "Orlando Self-Storage LLC",
+    "lat": "28.5307314",
+    "long": "-81.3819095"
+  },
+  {
+    "address": "4751 Vineland Rd, Orlando, FL 32811",
+    "built_in_date": null,
+    "owner": "RTG Furniture Corp",
+    "lat": "28.4933508",
+    "long": "-81.4368429"
+  },
+  {
+    "address": "4060 Conroy Rd, Orlando, FL 32839",
+    "built_in_date": null,
+    "owner": "Limestone Panmill LLC",
+    "lat": "28.4867118",
+    "long": "-81.428463"
+  },
+  {
+    "address": "7675 Lake Nona Blvd, Orlando, FL 32827",
+    "built_in_date": null,
+    "owner": "Clayton Investments LLC",
+    "lat": "28.385121",
+    "long": "-81.27758"
+  },
+  {
+    "address": "116 N Bumby Ave, Orlando, FL 32803",
+    "built_in_date": null,
+    "owner": "Van Den Abbeel Wollheim Pass LLC",
+    "lat": "28.5443324",
+    "long": "-81.3519875"
+  },
+  {
+    "address": "5931 International Dr, Orlando, FL 32819",
+    "built_in_date": null,
+    "owner": "1MIT LLC",
+    "lat": "28.4623991",
+    "long": "-81.4606154"
+  },
+  {
+    "address": "2645 S Orange Ave, Orlando, FL 32806",
+    "built_in_date": null,
+    "owner": "Orange Sodo LLC",
+    "lat": "28.5132365",
+    "long": "-81.3762263"
+  },
+
+  
+  {
+    "address": "408 N Primrose Dr, Orlando, FL 32803",
+    "built_in_date": 2019,
+    "owner": "Trea SP IV Orlando FL LLC",
+    "lat": "",
+    "long": ""
+  },
+  {
+    "address": "6803 Conway Rd, Orlando, FL 32812",
+    "built_in_date": null,
+    "owner": "Racetrac Inc",
+    "lat": "",
+    "long": ""
+  },
+  {
+    "address": "6324 S Semoran Blvd, Orlando, FL 32822",
+    "built_in_date": null,
+    "owner": "Famlee Investment Co"
+  },
+  {
+    "address": "327 S Orange Blossom Trl, Orlando, FL 32805",
+    "built_in_date": null,
+    "owner": "Claro Orlando LLC"
+  },
+  {
+    "address": "5405 S Semoran Blvd, Orlando, FL 32822",
+    "built_in_date": null,
+    "owner": "7-Eleven Inc"
+  },
+  {
+    "address": "8132 Lee Vista Blvd, Orlando, FL 32829",
+    "built_in_date": null,
+    "owner": "Narcoossee Acquisitions LLC"
+  },
+  {
+    "address": "5685 S Semoran Blvd, Orlando, FL 32822",
+    "built_in_date": null,
+    "owner": "McDonalds Restaurants of Florida Inc"
+  },
+  {
+    "address": "9979 Tagore Pl, Orlando, FL 32827",
+    "built_in_date": null,
+    "owner": "11930 Narcoossee Road LLC"
+  },
+  {
+    "address": "8103 Lee Vista Blvd, Orlando, FL 32829",
+    "built_in_date": null,
+    "owner": "Auto Promenade LLC"
+  },
+  {
+    "address": "11978 Narcoossee Rd, Orlando, FL 32832",
+    "built_in_date": null,
+    "owner": "11930 Narcoossee Road LLC"
+  },
+  {
+    "address": "4779 Vineland Rd, Orlando, FL 32811",
+    "built_in_date": null,
+    "owner": "City Furniture Inc"
+  },
+  {
+    "address": "9450 Narcoossee Rd, Orlando, FL 32827",
+    "built_in_date": null,
+    "owner": "Akshaya Ventures LLC"
+  },
+  {
+    "address": "4850 Lawing Ln, Orlando, FL 32811",
+    "built_in_date": null,
+    "owner": "Spirit Realty"
+  },
+  {
+    "address": "14086 Centerline Dr, Orlando, FL 32827",
+    "built_in_date": 2019,
+    "owner": "LPAP LLC"
+  },
+  {
+    "address": "3283 Columbia St, Orlando, FL 32805",
+    "built_in_date": null,
+    "owner": "Autozone Stores LLC"
+  },
+  {
+    "address": "6168 S Goldenrod Rd, Orlando, FL 32822",
+    "built_in_date": 2019,
+    "owner": "ESS Storage Acquisition Seventy Five"
+  },
+  {
+    "address": "1174 S Kirkman Rd, Orlando, FL 32811",
+    "built_in_date": 2018,
+    "owner": "El Rancho Partners Ltd 52% Int"
+  },
+  {
+    "address": "3820 S Orange Ave, Orlando, FL 32806",
+    "built_in_date": null,
+    "owner": "Extra Space of Orange Orlando LLC"
+  },
+  {
+    "address": "2504 S Orange Ave, Orlando, FL 32806",
+    "built_in_date": null,
+    "owner": "McDonalds Corp"
+  },
+  {
+    "address": "1101 Resource Ave, Orlando, FL 32835",
+    "built_in_date": 2018,
+    "owner": "MDC Coast 28 LLC"
+  },
+  {
+    "address": "1725 S Orange Ave, Orlando, FL 32806",
+    "built_in_date": null,
+    "owner": "LMP Orange LLC"
+  },
+  {
+    "address": "4301 N Orange Blossom Trl, Orlando, FL 32804",
+    "built_in_date": null,
+    "owner": "Luke 82225 LLC"
+  },
+  {
+    "address": "23 N Orange Blossom Trl, Orlando, FL 32805",
+    "built_in_date": null,
+    "owner": "North Orange Blossom Proper 232"
+  },
+  {
+    "address": "5894 Conroy Rd, Orlando, FL 32835",
+    "built_in_date": null,
+    "owner": "Bernstein Family Company 1 LLC"
+  },
+  {
+    "address": "7032 S Kirkman Rd, Orlando, FL 32819",
+    "built_in_date": null,
+    "owner": "MD NY Property II LLC"
+  },
+  {
+    "address": "609 Irvington Ave, Orlando, FL 32803",
+    "built_in_date": null,
+    "owner": "Food Cart Lot LLC"
+  },
+  {
+    "address": "5725 Major Blvd, Orlando, FL 32819",
+    "built_in_date": null,
+    "owner": "Winter Park Imports Inc"
+  },
+  {
+    "address": "2726 S Orange Ave, Orlando, FL 32806",
+    "built_in_date": null,
+    "owner": "JHB-1 Property Management LLLP"
+  },
+  {
+    "address": "1250 S John Young Pkwy, Orlando, FL 32805",
+    "built_in_date": null,
+    "owner": "SP Clear Lake LLC"
+  }
+]
